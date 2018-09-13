@@ -1,2 +1,0 @@
-# react-basic
-react-basic
